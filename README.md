@@ -5,4 +5,4 @@ I focus on bridging the gap to accelerate delivery while maintaining reliability
 I also have a deep love for Free and Open Source Software, believing in the power of community-driven collaboration.
 
 
-Hacker Rank: https://www.hackerrank.com/profile/mariospz
+If you want to see my problem solving section [click here](https://github.com/marios-pz/coding_challenges)!
